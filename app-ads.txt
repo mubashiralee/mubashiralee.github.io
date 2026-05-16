@@ -506,3 +506,15 @@ voisetech.com, 1066, RESELLER
 xandr.com, 17779, RESELLER
 zetaglobal.net, 630, RESELLER
 zmaticoo.com, 5135195, RESELLER
+
+# v2.13.3+ — Magnite (Rubicon Project) Open Bidding seller declaration.
+# Per onboarding email from accountservices@magnite.com on 2026-05-09
+# (Pub ID pub-3626234951423871 = our AdMob account = CapitalCraft Studios).
+# Magnite's IQ team approved our account for Open Bidding via AdMob's
+# mediation. These 2 lines are the app-ads.txt prereq; full activation
+# also requires (a) re-integrating the AdMob SDK in the app and
+# (b) adding Magnite to an AdMob Yield Group. Both deferred to v2.14.0
+# alongside the AppLovin MAX mediation decision. Pre-clearing the
+# seller declarations here so the relationship doesn't lapse.
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
