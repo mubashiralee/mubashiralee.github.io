@@ -6,6 +6,7 @@ sharethrough.com, 4194, RESELLER, 060d053dcf45cbf3
 vungle.com, 69f4cdf7ab63455004a1133e, DIRECT, c107d686becd2d77
 unityads.unity3d.com, 5774042245835, DIRECT, 96cabb5fbdde37a7
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
+facebook.com, 1573849987490817, DIRECT, c3e20eee3f780d68
 
 # v2.13.3 — Liftoff Monetize (Vungle) downstream reseller chain.
 # Generated from Liftoff publisher dashboard reference app-ads.txt
